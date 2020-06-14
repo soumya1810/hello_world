@@ -1,5 +1,6 @@
 # hello_world
-my first repository
-hi peeps!!
 
-soumya here, i like to code that's why I made of here! :)
+Hi peeps!!
+my first repository
+
+soumya here, i like to code that's why I made off here! :)
